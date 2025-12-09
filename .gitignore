@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Data
+data/
+!data/.gitkeep
+
+# Models
+models/
+*.pt
+*.bin
+*.h5
+
+# IDES
+.vscode/
+.idea/
+
+# System
+.DS_Store

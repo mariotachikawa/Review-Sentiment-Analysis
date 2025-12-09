@@ -1,0 +1,21 @@
+# Core Data Science
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+
+# Deep Learning & NLP
+torch>=2.0.0
+transformers
+datasets
+accelerate>=0.21.0
+
+# Text Processing & Augmentation
+nltk
+tqdm
+
+# Utilities
+jupyter
+ipykernel
